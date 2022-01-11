@@ -1,0 +1,61 @@
+#1.
+
+Enter the first number
+ 10
+Enter the second number
+ 20
+Enter the third number
+ 30
+The average of the three numbers you entered is: 20.0
+
+
+#2.
+Enter your gross income(in dollars)
+ 50000
+Enter the number of dependents
+ 3
+The tax amount you need to pay is 6200.0
+
+
+#3.
+Enter your name
+Saggitarius
+Enter the index of this data in the list
+ 0
+Enter the SID
+221145
+Enter the index of this data in the list
+ 1
+Enter M for male, F for female and U for other
+M
+Enter the index of this data in the list
+ 2
+Enter the course in which you are enrolled
+EE
+Enter the index of this data in the list
+ 3
+Enter the CGPA you got
+9.8
+Enter the index of this data in the list
+ 4
+The information is ['Saggitarius', 221145, 'M', 'EE', 9.8]
+
+
+#4.
+Enter the marks of the first student
+95
+Enter the marks of the Second student
+46
+Enter the marks of the Third student
+36
+Enter the marks of the Fourth student
+82
+Enter the marks of the Fifth student
+50
+The marks list is [36, 46, 50, 82, 95]
+
+#5 a.
+['Red', 'Green', 'White', 'Pink', 'Yellow']
+
+#5 b.
+['Red', 'Green', 'White', 'Purple', 'Yellow']
