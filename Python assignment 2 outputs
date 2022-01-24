@@ -1,0 +1,63 @@
+Q1.
+a. The length of the string is:
+    35
+b. The new string after changing the order is:
+    language sensitive case a is Python
+c. The new string using a substring of the original string is:
+    a case sensitive
+d. The new string after replacing a substring of the original string is:
+    Python is object oriented language
+e. The index of a is:
+    10
+f. After removing the whitespaces the string become:
+    Pythonisacasesensitivelanguage
+
+Q2.
+Hey Prem here!
+My SID is 21104084
+I am from EE department and my CGPA is 9.9
+
+Q3.
+a.8
+b.58
+c.50
+d.224
+d.40
+e.14
+e.0
+
+Q4.
+Enter the first number
+25
+Enter the second number
+14
+Enter the third number
+65
+The greatest number is :
+65
+
+Q.5 Both parts for Yes as well as for NO
+
+my name is Prem
+Yes
+New Delhi is the capital city of India.
+No
+
+Q6. Both parts for Yes as well as for No
+
+Enter the length of first side of your required triangle
+50
+Enter the length of second side of your required triangle
+54.2
+Enter the length of third side of your required triangle
+63
+Yes, you can form a triangle with these side lengths
+
+Enter the length of first side of your required triangle
+56.4
+Enter the length of second side of your required triangle
+88
+Enter the length of third side of your required triangle
+30
+No, you cannot form a triangle with these side lengths
+
